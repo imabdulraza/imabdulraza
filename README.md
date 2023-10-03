@@ -1,4 +1,4 @@
-👋 Hello, I go by @imabdulraza.
+👋 Hello, I'm @imabdulraza.
 👀 My passion lies in coding and software development.
 🌱 I currently hold the role of a software engineer.
 💞️ I'm open to collaboration opportunities.
